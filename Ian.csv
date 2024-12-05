@@ -1,0 +1,457 @@
+Name,Continent,Team,Pos,Age,MP,Starts,Min,CrdY,CrdR,PrgC,PrgP,PrgG,G.A.PK_90
+Leandro Trossard,Europe,ARS,FWMF,28,34,18,1649,2,0,66,76,155,0.71
+Gabriel Jesus,South America,ARS,FW,26,27,17,1478,6,0,38,42,155,0.55
+Gabriel Martinelli,South America,ARS,FW,22,35,24,2019,1,0,127,65,345,0.45
+Gabriel Magalhães,South America,ARS,DF,25,36,34,3044,4,0,13,117,8,0.12
+Reiss Nelson,Europe,ARS,FW,23,15,1,268,1,0,9,5,26,0
+Emile Smith Rowe,Europe,ARS,MF,23,13,3,353,0,0,11,23,18,0.25
+Eddie Nketiah,Europe,ARS,FW,24,27,10,1082,3,0,22,20,77,0.58
+Bukayo Saka,Europe,ARS,FW,21,35,35,2919,4,0,155,126,508,0.59
+Ben White,Europe,ARS,DF,25,37,35,2988,8,0,44,192,162,0.24
+Declan Rice,Europe,ARS,MF,24,38,37,3225,5,0,75,278,64,0.42
+William Saliba,Europe,ARS,DF,22,38,38,3420,4,0,16,157,6,0.08
+Kai Havertz,Europe,ARS,MFFW,24,37,30,2634,11,0,55,99,191,0.65
+Thomas Partey,Africa,ARS,MFDF,30,14,9,788,3,0,15,72,10,0
+Jorginho,Europe,ARS,MF,31,24,10,921,1,0,8,101,8,0.2
+Takehiro Tomiyasu,Asia,ARS,DF,24,22,10,1149,2,1,17,72,37,0.23
+Martin Ødegaard,Europe,ARS,MF,24,35,35,3091,2,0,91,344,202,0.47
+Jakub Kiwior,Europe,ARS,DF,23,20,11,946,1,0,4,55,16,0.38
+Fabio Vieira,Europe,ARS,MFFW,23,11,2,297,0,1,12,15,30,0.61
+Oleksandr Zinchenko,Europe,ARS,DF,26,27,20,1722,2,0,40,229,58,0.16
+Leander Dendoncker,Europe,AVL,MF,28,8,1,119,0,0,0,3,2,0.76
+Youri Tielemans,Europe,AVL,MFFW,26,32,17,1622,3,0,23,128,46,0.44
+Diego Carlos,South America,AVL,DF,30,27,20,1816,4,0,4,59,1,0
+Douglas Luiz,South America,AVL,MF,25,35,35,2993,12,0,60,168,50,0.3
+Jhon Durán,South America,AVL,FWMF,19,23,3,475,5,0,9,9,25,0.95
+Calum Chambers,Europe,AVL,MFDF,28,5,1,152,1,0,0,5,1,0.59
+Tim Iroegbunam,Europe,AVL,MF,20,9,1,164,0,0,3,1,0,0
+Morgan Rogers,Europe,AVL,MFFW,21,11,8,638,3,0,22,28,30,0.56
+Jacob Ramsey,Europe,AVL,FWMF,22,16,8,853,2,0,33,28,69,0.21
+Ezri Konsa,Europe,AVL,DF,25,35,35,3069,5,0,37,136,33,0.03
+Ollie Watkins,Europe,AVL,FW,27,37,37,3217,4,0,62,55,214,0.9
+Álex Moreno,Europe,AVL,DF,30,21,11,1031,2,0,32,24,83,0.17
+Pau Torres,Europe,AVL,DF,26,29,27,2464,1,0,42,128,16,0.07
+Clément Lenglet,Europe,AVL,DF,28,14,14,1153,3,0,26,51,1,0.08
+Boubacar Kamara,Europe,AVL,MF,23,20,20,1652,7,1,19,83,10,0.05
+Moussa Diaby,Europe,AVL,FWMF,24,38,25,2174,1,0,94,72,183,0.58
+Lucas Digne,Europe,AVL,DF,30,33,27,2410,7,0,42,77,200,0.15
+Nicolò Zaniolo,Europe,AVL,FWMF,24,25,9,839,7,0,35,30,60,0.21
+Leon Bailey,North America,AVL,MFFW,25,35,22,2068,5,0,102,82,226,0.83
+Matty Cash,Europe,AVL,DF,25,29,23,2142,8,0,62,88,101,0.17
+John McGinn,Europe,AVL,MFFW,28,35,35,2999,9,1,59,189,84,0.3
+Marcos Senesi,South America,BOU,DF,26,31,26,2242,13,0,31,127,4,0.36
+Dango Ouattara,Africa,BOU,FW,21,30,12,1229,3,0,47,35,90,0.22
+Luis Sinisterra,South America,BOU,FWMF,24,20,7,699,0,0,51,38,85,0.52
+Philip Billing,Europe,BOU,MF,27,29,13,1398,3,1,22,53,63,0.26
+Jaidon Anthony,Europe,BOU,FW,23,3,2,152,1,0,2,8,9,0
+Joe Rothwell,Europe,BOU,MF,28,11,3,386,0,0,6,20,3,0
+Alex Scott,Europe,BOU,MF,19,23,11,1014,3,0,24,50,35,0.18
+Max Aarons,Europe,BOU,DF,23,20,13,1237,1,0,22,43,26,0.07
+Lloyd Kelly,Europe,BOU,DF,24,23,17,1559,2,0,15,56,28,0.06
+Marcus Tavernier,Europe,BOU,FW,24,30,25,2118,3,0,79,84,171,0.3
+Adam Smith,Europe,BOU,DF,32,28,25,2150,6,0,24,89,28,0.08
+Lewis Cook,Europe,BOU,MF,26,33,32,2786,5,1,22,142,15,0.1
+Dominic Solanke,Europe,BOU,FW,25,38,37,3325,3,0,52,60,184,0.54
+Antoine Semenyo,Africa,BOU,FW,23,33,25,2105,6,0,89,64,188,0.43
+Milos Kerkez,Europe,BOU,DF,19,28,22,1970,4,1,46,44,93,0.05
+Justin Kluivert,Europe,BOU,MFFW,24,32,26,1916,5,0,65,50,114,0.38
+Ryan Christie,Europe,BOU,MF,28,37,35,2907,6,0,60,167,78,0.15
+Enes Ünal,Europe,BOU,FWMF,26,16,2,328,1,0,4,7,28,1.1
+Illia Zabarnyi,Europe,BOU,DF,20,37,37,3330,5,0,24,109,1,0.03
+Tyler Adams,North America,BOU,MF,24,3,1,121,0,0,4,5,1,0
+Kieffer Moore,Europe,BOU,FWMF,30,8,0,108,0,0,2,4,15,0.83
+David Brooks,Europe,BOU,FWMF,26,13,2,282,1,0,8,21,27,0.64
+Chris Mepham,Europe,BOU,DF,25,10,6,617,2,0,4,25,1,0.15
+Bryan Mbeumo,Africa,BRE,FW,23,25,22,1960,2,0,74,88,195,0.55
+Yoane Wissa,Africa,BRE,FW,26,34,29,2493,7,0,45,48,150,0.54
+Mikkel Damsgaard,Europe,BRE,MF,23,23,7,842,2,0,16,61,32,0.21
+Mathias Jørgensen,Europe,BRE,DF,33,14,12,1087,4,0,5,50,4,0.08
+Mads Roerslev,Europe,BRE,DF,24,34,22,1985,1,0,18,43,90,0.14
+Mathias Jensen,Europe,BRE,MF,27,32,27,2204,5,0,19,123,66,0.25
+Christian Nørgaard,Europe,BRE,MF,29,31,30,2505,8,0,15,161,42,0.11
+Rico Henry,Europe,BRE,DF,26,5,5,401,1,0,13,20,12,0.22
+Ben Mee,Europe,BRE,DF,33,16,15,1272,1,1,11,49,9,0.14
+Keane Lewis-Potter,Europe,BRE,FW,22,30,15,1441,0,0,56,32,135,0.25
+Ivan Toney,Europe,BRE,FW,27,17,16,1450,5,0,23,40,98,0.37
+Sergio Reguilón,Europe,BRE,DF,26,16,14,1118,4,1,34,38,40,0.32
+Neal Maupay,Europe,BRE,FW,26,29,13,1321,8,0,21,37,91,0.61
+Kevin Schade,Europe,BRE,FWMF,21,11,3,333,0,0,8,9,23,0.81
+Vitaly Janelt,Europe,BRE,MFDF,25,38,37,3054,8,0,25,123,81,0.12
+Shandon Baptiste,North America,BRE,MF,25,10,2,229,1,0,3,5,1,0.79
+Nathan Collins,Europe,BRE,DF,22,32,29,2652,3,0,11,97,18,0.07
+Saman Ghoddos,Asia,BRE,DF,29,19,7,739,5,0,22,36,31,0.12
+Ethan Pinnock,North America,BRE,DF,30,29,28,2521,1,0,11,61,16,0.07
+Frank Onyeka,Africa,BRE,MF,25,26,11,1161,8,0,17,33,39,0.23
+Kristoffer Ajer,Europe,BRE,DF,25,28,21,1832,5,0,22,61,31,0.15
+Aaron Hickey,Europe,BRE,DF,21,9,9,713,5,0,9,21,13,0
+Yehor Yarmoliuk,Europe,BRE,MF,19,27,6,688,2,0,13,35,36,0
+Valentín Barco,South America,BHA,DFFW,19,6,3,307,1,0,8,14,20,0
+Facundo Buonanotte,South America,BHA,FWMF,18,27,17,1364,7,0,23,42,69,0.26
+Igor,South America,BHA,DF,25,24,17,1637,4,0,30,107,12,0
+João Pedro,South America,BHA,FWMF,21,31,19,2045,2,0,83,92,205,0.35
+Simon Adingra,Africa,BHA,FW,21,31,25,2222,3,0,111,50,278,0.28
+Carlos Baleba,Africa,BHA,MF,19,27,15,1325,7,0,19,50,9,0
+Pervis Estupiñán,South America,BHA,DF,25,19,15,1243,4,0,47,83,88,0.36
+Odeluga Offiah,Europe,BHA,DF,20,4,1,128,0,0,9,4,9,0
+Solly March,Europe,BHA,FW,29,7,7,554,1,0,14,24,44,0.65
+James Milner,Europe,BHA,DFMF,37,15,11,773,3,0,11,69,73,0.23
+Adam Lallana,Europe,BHA,MFFW,35,25,13,850,2,0,9,39,55,0.11
+Jack Hinshelwood,Europe,BHA,DF,18,12,8,869,1,0,16,19,38,0.31
+Adam Webster,Europe,BHA,DF,28,15,13,1144,2,0,16,80,2,0
+Danny Welbeck,Europe,BHA,FWMF,32,29,21,1693,4,0,32,44,100,0.32
+Lewis Dunk,Europe,BHA,DF,31,33,33,2869,7,1,33,152,13,0.13
+Ansu Fati,Europe,BHA,MFFW,20,19,3,521,2,0,16,28,50,0.35
+Mahmoud Dahoud,Europe,BHA,MF,27,9,6,452,1,1,4,11,6,0.2
+Pascal Groß,Europe,BHA,MFDF,32,36,34,3114,6,0,83,302,180,0.38
+Tariq Lamptey,Africa,BHA,DFFW,22,19,10,914,3,0,39,17,64,0.3
+Evan Ferguson,Europe,BHA,FW,18,27,15,1367,1,0,13,15,62,0.4
+Kaoru Mitoma,Asia,BHA,FW,26,19,15,1486,4,0,121,64,239,0.42
+Joël Veltman,Europe,BHA,DF,31,27,17,1588,4,0,24,85,54,0.11
+Jan Paul van Hecke,Europe,BHA,DF,23,28,26,2369,4,0,25,147,7,0
+Julio Enciso,South America,BHA,MFFW,19,12,5,475,2,0,28,21,29,0.38
+Jakub Moder,Europe,BHA,MFDF,24,17,6,618,2,0,10,23,26,0
+Billy Gilmour,Europe,BHA,MF,22,30,24,2120,8,1,39,193,33,0.04
+Benson Manuel,Africa,BUR,MFFW,26,8,1,116,0,0,5,2,14,0
+Mike Trésor,Europe,BUR,FWMF,24,16,3,420,0,0,15,10,31,0
+Hannes Delcroix,Europe,BUR,DF,24,12,5,589,2,0,2,18,6,0
+Ameen Al-Dakhil,Europe,BUR,DF,21,13,12,1056,1,0,7,35,9,0.09
+Vitinho,South America,BUR,DFMF,24,32,26,2314,1,0,59,66,110,0.08
+David Datro Fofana,Africa,BUR,FW,20,15,10,879,1,0,21,15,39,0.51
+Jacob Bruun Larsen,Europe,BUR,MFFW,24,32,16,1249,1,0,61,38,146,0.36
+Nathan Redmond,Europe,BUR,FWMF,29,12,0,142,1,0,7,8,22,0
+Aaron Ramsey,Europe,BUR,MFFW,20,14,5,527,1,0,8,8,17,0
+Jay Rodriguez,Europe,BUR,FW,34,21,7,822,0,0,2,17,28,0.22
+Josh Brownhill,Europe,BUR,MF,27,33,23,2252,4,1,19,90,36,0.24
+Charlie Taylor,Europe,BUR,DF,29,28,25,2331,8,0,36,82,81,0.08
+Maxime Estève,Europe,BUR,DF,21,16,15,1309,6,0,15,40,3,0
+Wilson Odobert,Europe,BUR,MFFW,18,29,25,2098,3,0,102,58,123,0.21
+Jordan Beyer,Europe,BUR,DF,23,15,15,1234,6,0,9,25,1,0.07
+Josh Cullen,Europe,BUR,MF,27,25,23,2057,9,0,22,123,22,0.22
+Dara O'Shea,Europe,BUR,DF,24,33,32,2892,5,1,32,122,10,0.22
+Jóhann Berg Gu_mundsson,Europe,BUR,MFFW,32,26,12,1192,2,0,13,59,69,0.3
+Luca Koleosho,Europe,BUR,MFFW,18,15,13,974,0,0,53,19,82,0.18
+Anass Zaroury,Africa,BUR,FWMF,22,6,1,152,0,1,2,2,12,0
+Sander Berge,Europe,BUR,MF,25,37,34,3005,10,1,64,164,29,0.09
+Lyle Foster,Africa,BUR,FWMF,22,24,22,1899,0,1,55,37,104,0.38
+Zeki Amdouni,Europe,BUR,FW,22,34,27,1953,2,0,63,49,93,0.23
+Hjalmar Ekdal,Europe,BUR,DF,24,8,5,437,2,0,5,11,1,0
+Lorenz Assignon,Africa,BUR,DF,23,15,15,1234,5,1,38,34,57,0.22
+Connor Roberts,Europe,BUR,DF,27,14,8,823,5,1,6,38,13,0.11
+Armando Broja,Europe,CHE,FW,21,13,6,454,0,0,11,6,37,0.2
+Enzo Fernández,South America,CHE,MF,22,28,26,2209,7,0,52,210,54,0.16
+Thiago Silva,South America,CHE,DF,38,31,28,2527,4,0,2,102,5,0.14
+Moisés Caicedo,South America,CHE,MF,21,35,33,2866,11,0,27,173,27,0.13
+Alfie Gilchrist,Europe,CHE,DF,19,11,2,207,1,0,1,7,4,0.43
+Carney Chukwuemeka,Europe,CHE,MFFW,19,9,2,227,2,0,4,12,19,0.79
+Reece James,Europe,CHE,DF,23,10,5,419,2,2,19,21,35,0.43
+Ben Chilwell,Europe,CHE,DF,26,13,9,756,5,0,22,25,59,0.12
+Trevoh Chalobah,Europe,CHE,DF,24,13,10,952,1,0,5,31,9,0.09
+Noni Madueke,Europe,CHE,FW,21,23,13,1053,2,0,76,52,136,0.51
+Levi Colwill,Europe,CHE,DF,20,23,20,1797,2,0,23,73,27,0.1
+Raheem Sterling,Europe,CHE,FWMF,28,31,22,1978,7,0,120,78,242,0.55
+Cole Palmer,Europe,CHE,FWMF,21,33,29,2607,7,0,117,197,195,0.83
+Conor Gallagher,Europe,CHE,MF,23,37,37,3128,9,1,62,172,122,0.35
+Marc Cucurella,Europe,CHE,DF,25,21,20,1782,10,0,31,50,73,0.1
+Lesley Ugochukwu,Europe,CHE,MF,19,12,3,301,2,0,8,17,3,0
+Christopher Nkunku,Europe,CHE,FWMF,25,11,2,443,0,0,10,19,35,0.61
+Benoît Badiashile,Europe,CHE,DF,22,18,15,1338,3,0,3,46,3,0.07
+Malo Gusto,Europe,CHE,DF,20,27,19,1751,7,1,78,86,135,0.31
+Axel Disasi,Europe,CHE,DF,25,31,29,2579,6,0,30,112,21,0.07
+Ian Maatsen,Europe,CHE,FWMF,21,12,1,209,1,0,9,8,15,0
+Nicolas Jackson,Africa,CHE,FW,22,35,31,2799,10,0,70,67,200,0.61
+Mykhailo Mudryk,Europe,CHE,FW,22,31,18,1576,5,0,92,45,139,0.4
+Matheus França,South America,CRY,MFFW,19,10,1,232,1,0,12,8,12,0.39
+Daniel Muñoz,South America,CRY,DFMF,27,16,16,1439,4,0,25,38,80,0.25
+Jefferson Lerma,South America,CRY,MFDF,28,28,27,2400,8,0,14,106,51,0.07
+Joachim Andersen,Europe,CRY,DF,27,38,38,3415,7,0,21,147,10,0.13
+Jesurun Rak Sakyi,Europe,CRY,MFFW,20,6,0,136,0,0,7,2,18,0
+David Ozoh,Europe,CRY,MFDF,18,9,0,156,1,0,2,4,3,0
+Adam Wharton,Europe,CRY,MF,19,16,15,1297,2,0,14,79,10,0.21
+Nathaniel Clyne,Europe,CRY,DF,32,19,14,1338,0,0,10,33,18,0
+Will Hughes,Europe,CRY,MF,28,30,23,1891,6,0,14,76,17,0.05
+Joel Ward,Europe,CRY,DF,33,26,23,1980,4,0,16,66,14,0.05
+Marc Guéhi,Europe,CRY,DF,23,25,23,2021,2,0,15,67,7,0.04
+Eberechi Eze,Europe,CRY,MFFW,25,27,24,2055,3,0,68,93,139,0.61
+Tyrick Mitchell,Europe,CRY,DFMF,23,37,37,3204,6,0,32,94,159,0.14
+Naouirou Ahamada,Europe,CRY,MFFW,21,20,0,349,4,1,19,25,20,0
+Michael Olise,Europe,CRY,FWMF,21,19,14,1275,0,0,68,78,134,1.06
+Odsonne Édouard,Europe,CRY,FWMF,25,30,17,1555,4,0,33,36,100,0.41
+Jean-Philippe Mateta,Europe,CRY,FW,26,35,25,2282,3,0,29,25,135,0.75
+Jeffrey Schlupp,Africa,CRY,FWMF,30,29,17,1352,1,0,20,33,52,0.27
+Jordan Ayew,Africa,CRY,FWMF,31,35,30,2543,9,1,74,63,173,0.39
+Cheick Doucouré,Africa,CRY,MF,23,11,11,919,2,0,9,49,5,0
+Jaïro Riedewald,Europe,CRY,MFFW,26,9,2,235,0,0,3,10,3,0
+Chris Richards,North America,CRY,DFMF,23,26,23,2094,3,0,1,43,1,0.09
+Amadou Onana,Europe,EVE,MF,21,30,23,2091,5,0,21,107,39,0.09
+Lewis Dobbin,Europe,EVE,MF,20,12,1,232,1,0,6,3,20,0.39
+Michael Keane,Europe,EVE,DF,30,9,4,439,2,0,4,14,3,0.21
+Ben Godfrey,Europe,EVE,DF,25,15,13,1120,2,0,11,43,26,0
+Dominic Calvert-Lewin,Europe,EVE,FW,26,32,26,2171,2,0,36,31,122,0.29
+Jack Harrison,Europe,EVE,MFFW,26,29,25,2214,1,0,65,62,135,0.24
+Ashley Young,Europe,EVE,DFMF,38,31,27,2280,7,1,40,82,61,0
+Dwight McNeil,Europe,EVE,MFFW,23,35,33,2892,2,0,80,114,147,0.28
+James Garner,Europe,EVE,MF,22,37,34,3004,7,0,36,100,76,0.09
+Jarrad Branthwaite,Europe,EVE,DF,21,35,35,3116,8,0,2,74,6,0.09
+James Tarkowski,Europe,EVE,DF,30,38,38,3419,11,0,15,130,20,0.05
+Neal Maupay,Europe,EVE,FW,26,2,1,111,0,0,1,0,6,0
+Beto,Africa,EVE,FW,25,30,9,951,2,0,14,14,58,0.28
+Séamus Coleman,Europe,EVE,DF,34,12,7,665,0,0,5,22,16,0
+Abdoulaye Doucouré,Africa,EVE,FWMF,30,32,32,2629,7,0,55,97,140,0.27
+Arnaut Danjuma,Europe,EVE,MFFW,26,14,5,595,0,0,24,9,44,0.15
+Alex Iwobi,Africa,EVE,MF,27,2,2,140,0,0,6,4,8,0
+Youssef Chermiti,Europe,EVE,FW,19,18,1,208,3,0,5,5,15,0
+André Gomes,Europe,EVE,MFFW,30,12,3,508,4,0,8,36,29,0.18
+Nathan Patterson,Europe,EVE,DF,21,20,9,1005,4,0,17,38,39,0.18
+Idrissa Gana Gueye,Africa,EVE,MF,33,25,24,1884,8,0,29,83,41,0.19
+Vitaliy Mykolenko,Europe,EVE,DF,24,28,28,2469,1,0,14,55,68,0.07
+Timothy Castagne,Europe,FUL,DF,27,34,29,2634,3,0,48,77,113,0.14
+Carlos Vinícius,South America,FUL,FW,28,13,2,315,2,0,3,3,13,0.57
+Rodrigo Muniz,South America,FUL,FW,22,26,18,1593,1,0,8,19,76,0.56
+Willian,South America,FUL,FW,34,31,24,2053,1,0,92,153,181,0.18
+Andreas Pereira,South America,FUL,MF,27,37,34,2613,6,0,56,138,125,0.34
+Harrison Reed,Europe,FUL,MF,28,27,15,1325,6,0,10,56,40,0.14
+Tosin Adarabioyo,Europe,FUL,DF,25,20,18,1617,2,0,10,62,5,0.11
+Adama Traoré,Europe,FUL,FWMF,27,17,1,377,2,0,29,16,48,1.19
+Issa Diop,Europe,FUL,DF,26,18,16,1424,4,1,11,66,1,0
+Bobby Reid,North America,FUL,FW,30,33,17,1423,4,0,35,47,95,0.51
+Raúl Jiménez,North America,FUL,FW,32,24,18,1395,3,1,11,24,87,0.45
+Kenny Tete,Europe,FUL,DF,27,14,10,867,2,0,20,54,38,0.1
+Alex Iwobi,Africa,FUL,FWMF,27,30,25,2192,2,0,109,147,175,0.29
+Calvin Bassey,Africa,FUL,DF,23,29,25,2303,6,1,15,62,4,0.04
+João Palhinha,Europe,FUL,MF,28,33,31,2699,13,0,8,97,14,0.17
+Tom Cairney,Europe,FUL,MF,32,34,14,1488,3,0,35,145,72,0.3
+Sa_a Luki_,Europe,FUL,MF,26,24,13,1122,3,0,12,43,27,0.08
+Tim Ream,North America,FUL,DF,35,18,17,1503,4,1,11,65,3,0.06
+Antonee Robinson,North America,FUL,DF,25,37,37,3265,6,0,99,129,194,0.17
+Harry Wilson,Europe,FUL,FW,26,35,16,1620,6,0,41,60,130,0.56
+Alexis Mac Allister,South America,LIV,MF,24,33,31,2599,7,1,44,209,48,0.31
+Joël Matip,Africa,LIV,DF,31,10,9,781,2,0,8,34,1,0
+Luis Díaz,South America,LIV,FW,26,37,32,2629,3,0,137,113,302,0.45
+Mohamed Salah,Africa,LIV,FW,31,32,28,2534,2,0,98,147,341,0.82
+Curtis Jones,Europe,LIV,MF,22,23,14,1167,3,1,31,74,88,0.15
+Jarell Quansah,Europe,LIV,DF,20,17,13,1190,1,0,13,67,1,0.15
+Harvey Elliott,Europe,LIV,MFFW,20,34,11,1352,2,0,44,128,122,0.6
+Joe Gomez,Europe,LIV,DF,26,32,17,1786,5,0,44,100,105,0.05
+Trent Alexander-Arnold,Europe,LIV,DF,24,28,25,2155,6,0,45,205,97,0.29
+Ibrahima Konaté,Europe,LIV,DF,24,22,17,1574,5,1,24,118,3,0
+Kostas Tsimikas,Europe,LIV,DF,27,13,8,679,0,0,24,31,73,0.4
+Dominik Szoboszlai,Europe,LIV,MF,22,33,25,2104,1,0,75,152,160,0.21
+Wataru Endo,Asia,LIV,MF,30,29,20,1722,10,0,10,101,21,0.05
+Ryan Gravenberch,Europe,LIV,MF,21,26,12,1121,0,0,39,78,71,0.08
+Cody Gakpo,Europe,LIV,FWMF,24,35,17,1649,1,0,43,83,130,0.71
+Virgil van Dijk,Europe,LIV,DF,32,36,36,3177,3,1,32,200,7,0.11
+Conor Bradley,Europe,LIV,DF,20,11,10,753,2,0,35,29,64,0.48
+Diogo Jota,Europe,LIV,FW,26,21,14,1145,3,1,54,34,111,1.02
+Andrew Robertson,Europe,LIV,DF,29,23,18,1693,2,0,63,140,130,0.27
+Darwin Núñez,South America,LIV,FW,24,36,22,2047,9,0,58,54,206,0.84
+Albert Sambi Lokonga,Europe,LUT,MF,23,17,16,1303,4,0,29,72,13,0.28
+Issa Kaboré,Africa,LUT,DF,22,24,21,1729,7,0,60,54,85,0.1
+Pelly Ruddock Mpanzu,Africa,LUT,MF,30,27,11,1101,1,0,10,34,15,0
+Mads Juel Andersen,Europe,LUT,DF,25,8,4,400,1,0,0,7,1,0.23
+Luke Berry,Europe,LUT,MFDF,31,17,2,323,1,0,1,8,7,0.84
+Fred Onyedinma,Europe,LUT,DFMF,26,8,4,407,1,0,9,6,21,0
+Cauley Woodrow,Europe,LUT,FWMF,28,24,2,427,2,0,7,6,22,0.42
+Ryan John Giles,Europe,LUT,DFMF,23,11,5,503,0,0,9,17,30,0
+Andros Townsend,Europe,LUT,MFFW,32,27,14,1210,1,0,47,35,71,0.3
+Jordan Clark,Europe,LUT,MF,29,23,14,1304,4,0,21,51,39,0.14
+Elijah Adebayo,Europe,LUT,FW,25,27,16,1419,1,0,16,23,110,0.63
+Reece Burke,Europe,LUT,DF,26,22,20,1660,5,0,11,67,14,0.22
+Teden Mengi,Europe,LUT,DF,21,30,28,2469,3,0,15,54,1,0.04
+Ross Barkley,Europe,LUT,MF,29,32,30,2618,6,0,48,163,39,0.31
+Carlton Morris,Europe,LUT,FWMF,27,38,32,2862,4,0,37,56,120,0.31
+Alfie Doughty,Europe,LUT,DF,23,37,34,2925,5,0,94,106,164,0.31
+Chiedozie Ogbene,Europe,LUT,MFDF,26,30,20,1995,1,0,127,53,150,0.23
+Amari'i Bell,North America,LUT,DF,29,21,21,1720,0,0,32,76,10,0
+Daiki Hashioka,Asia,LUT,DF,24,10,6,595,0,0,3,21,16,0
+Tahith Chong,Europe,LUT,MFFW,23,33,20,1982,4,0,57,72,101,0.18
+Gabriel Osho,Africa,LUT,DF,24,21,21,1846,3,0,10,37,4,0.1
+Jacob Brown,Europe,LUT,MFFW,25,19,12,1019,4,0,25,19,53,0.18
+Tom Lockyer,Europe,LUT,DF,28,14,14,1169,4,0,6,37,2,0.15
+Marvelous Nakamba,Africa,LUT,MF,29,13,13,1130,5,0,1,36,5,0
+Julián Álvarez,South America,MCI,MFFW,23,36,31,2647,2,0,64,103,180,0.58
+Kevin De Bruyne,Europe,MCI,MF,32,18,15,1221,2,0,47,111,133,1.03
+Jeremy Doku,Europe,MCI,FWMF,21,29,18,1595,3,0,218,57,295,0.62
+Mateo Kova_i_,Europe,MCI,MF,29,30,16,1551,4,0,37,100,38,0.06
+Jo_ko Gvardiol,Europe,MCI,DF,21,28,26,2328,3,0,63,136,115,0.19
+Kalvin Phillips,Europe,MCI,MF,27,4,0,93,0,0,7,7,3,0
+Rico Lewis,Europe,MCI,DFMF,18,16,8,809,1,0,21,33,46,0.22
+Jack Grealish,Europe,MCI,FWMF,27,20,10,1009,6,0,87,50,146,0.36
+John Stones,Europe,MCI,DFMF,29,16,12,1064,2,0,16,57,24,0.08
+Kyle Walker,Europe,MCI,DF,33,32,30,2767,2,0,74,157,172,0.13
+Phil Foden,Europe,MCI,FWMF,23,35,33,2857,2,0,93,168,269,0.85
+Rodri,Europe,MCI,MF,27,34,34,2931,8,1,76,376,55,0.52
+Nathan Aké,Europe,MCI,DF,28,29,24,2042,0,0,24,116,18,0.18
+Oscar Bobb,Europe,MCI,FWMF,20,14,2,302,0,0,13,25,38,0.6
+Erling Haaland,Europe,MCI,FW,23,31,29,2552,1,0,35,26,126,0.88
+Matheus Nunes,Europe,MCI,MF,24,17,7,661,0,0,28,34,58,0.27
+Rúben Dias,Europe,MCI,DF,26,30,28,2559,0,0,34,173,16,0
+Bernardo Silva,Europe,MCI,MFFW,28,33,29,2578,8,0,140,177,260,0.52
+Manuel Akanji,Europe,MCI,DFMF,28,30,28,2511,4,1,46,148,36,0.07
+Lisandro Martínez,South America,MUN,DF,25,11,8,646,3,0,8,28,1,0.14
+Alejandro Garnacho,South America,MUN,FW,19,36,30,2565,4,0,178,62,281,0.39
+Antony,South America,MUN,FW,23,29,15,1324,5,0,53,64,149,0.14
+Casemiro,South America,MUN,MFDF,31,25,24,1982,7,0,12,112,36,0.14
+Amad Diallo,Africa,MUN,FWMF,21,9,3,390,1,0,11,10,31,0.46
+Christian Eriksen,Europe,MUN,MF,31,22,12,1141,1,0,20,68,23,0.24
+Rasmus Højlund,Europe,MUN,FW,20,30,25,2158,2,0,36,33,111,0.5
+Mason Mount,Europe,MUN,MFFW,24,14,5,516,2,0,9,21,34,0.17
+Luke Shaw,Europe,MUN,DF,28,12,12,959,6,0,10,45,30,0
+Harry Maguire,Europe,MUN,DF,30,22,18,1653,4,0,20,73,2,0.22
+Aaron Wan-Bissaka,Europe,MUN,DF,25,22,20,1780,4,0,30,77,54,0.1
+Kobbie Mainoo,Europe,MUN,MF,18,24,24,1924,3,0,25,64,36,0.19
+Marcus Rashford,Europe,MUN,FW,25,33,26,2271,2,0,95,65,184,0.28
+Sergio Reguilón,Europe,MUN,DF,26,9,4,412,3,0,11,27,38,0
+Willy Kambwala,Europe,MUN,DF,18,8,3,330,1,0,2,8,1,0
+Anthony Martial,Europe,MUN,FW,27,13,5,448,0,0,6,12,36,0.2
+Raphaël Varane,Europe,MUN,DF,30,22,16,1375,2,0,16,59,2,0.07
+Sofyan Amrabat,Africa,MUN,MFDF,26,21,10,938,6,0,6,66,10,0
+Jonny Evans,Europe,MUN,DF,35,23,15,1392,2,0,7,37,1,0.06
+Bruno Fernandes,Europe,MUN,MFFW,28,35,35,3118,9,0,86,297,182,0.4
+Diogo Dalot,Europe,MUN,DF,24,36,35,3174,6,1,52,124,111,0.14
+Scott McTominay,Europe,MUN,MFFW,26,32,18,1901,2,0,29,64,47,0.38
+Victor Lindelöf,Europe,MUN,DF,29,19,14,1328,2,0,17,40,17,0.14
+Hannibal Mejbri,Africa,MUN,MFFW,20,5,1,133,1,0,2,6,10,0.68
+Facundo Pellistri,South America,MUN,FWMF,21,9,1,172,0,0,6,6,31,0.52
+Joelinton,South America,NEW,MFFW,26,20,15,1279,6,0,29,56,60,0.21
+Bruno Guimarães,South America,NEW,MF,25,37,37,3263,9,0,65,283,73,0.41
+Joe Willock,Europe,NEW,MF,23,9,5,419,0,0,16,17,26,0.21
+Lewis Hall,Europe,NEW,DF,18,18,8,781,2,0,19,46,27,0.12
+Harvey Barnes,Europe,NEW,FWMF,25,21,7,802,2,0,45,34,79,0.9
+Callum Wilson,Europe,NEW,FW,31,20,9,991,3,0,11,9,77,0.73
+Jamaal Lascelles,Europe,NEW,DF,29,16,13,1080,4,0,8,31,3,0.08
+Jacob Murphy,Europe,NEW,FW,28,21,14,1189,1,0,33,52,113,0.76
+Lewis Miley,Europe,NEW,MF,17,17,14,1202,1,0,14,53,54,0.3
+Valentino Livramento,Europe,NEW,DF,20,26,12,1314,1,0,44,61,76,0.07
+Kieran Trippier,Europe,NEW,DF,32,28,26,2236,5,0,34,157,128,0.44
+Dan Burn,Europe,NEW,DF,31,33,32,2726,4,0,14,75,25,0.13
+Sean Longstaff,Europe,NEW,MF,25,35,30,2747,7,0,24,145,116,0.26
+Anthony Gordon,Europe,NEW,FW,22,35,34,2890,12,1,138,101,232,0.62
+Sandro Tonali,Europe,NEW,MF,23,8,5,438,2,0,11,19,21,0.21
+Sven Botman,Europe,NEW,DF,23,17,15,1377,2,0,0,35,5,0.26
+Miguel Almirón,South America,NEW,FW,29,33,23,1937,2,0,78,78,162,0.19
+Matt Ritchie,Europe,NEW,FWMF,33,13,0,128,1,0,5,8,13,0.7
+Elliot Anderson,Europe,NEW,MFFW,20,21,10,1027,3,0,37,57,70,0.18
+Fabian Schär,Europe,NEW,DF,31,36,35,3054,5,0,28,133,20,0.15
+Emil Krafth,Europe,NEW,DF,28,17,8,913,2,0,12,29,33,0
+Alexander Isak,Europe,NEW,FW,23,30,27,2255,1,0,68,71,129,0.72
+Gonzalo Montiel,South America,NFO,DF,26,14,8,801,5,0,10,28,32,0.22
+Nicolás Domínguez,South America,NFO,MFFW,25,26,19,1495,4,0,14,91,43,0.24
+Divock Origi,Europe,NFO,FW,28,20,6,606,1,0,19,14,41,0.15
+Orel Mangala,Europe,NFO,MF,25,20,19,1563,6,0,13,45,14,0.06
+Felipe,South America,NFO,DF,34,7,4,375,4,0,1,6,0,0
+Danilo,South America,NFO,MF,22,29,20,1792,4,0,22,83,28,0.2
+Murillo,South America,NFO,DF,21,32,32,2789,5,0,22,89,7,0.06
+Serge Aurier,Africa,NFO,DFMF,30,12,10,833,2,0,10,47,29,0.22
+Ibrahim Sangaré,Africa,NFO,MF,25,17,13,1035,6,0,5,44,7,0
+Willy Boly,Africa,NFO,DF,32,20,18,1438,3,1,4,32,3,0.19
+Joe Worrall,Europe,NFO,DF,26,7,5,439,0,1,0,8,1,0
+Harry Toffolo,Europe,NFO,DF,27,23,15,1459,3,0,10,42,34,0.25
+Callum Hudson-Odoi,Europe,NFO,FWMF,22,29,20,1854,0,0,111,58,171,0.44
+Ryan Yates,Europe,NFO,MF,25,35,21,1992,6,0,18,73,37,0.09
+Morgan Gibbs-White,Europe,NFO,MFFW,23,37,35,3156,9,0,80,170,181,0.4
+Andrew Omobamidele,Europe,NFO,DF,21,11,8,783,2,0,1,8,0,0
+Taiwo Awoniyi,Africa,NFO,FW,25,20,12,1042,2,0,8,14,45,0.78
+Ola Aina,Africa,NFO,DF,26,22,20,1692,3,0,53,68,38,0.11
+Chris Wood,Oceania,NFO,FW,31,31,20,1812,0,0,16,30,76,0.75
+Nuno Tavares,Europe,NFO,DF,23,8,5,457,2,0,14,24,12,0
+Scott McKenna,Europe,NFO,DF,26,5,5,416,0,0,1,10,0,0
+Cheikhou Kouyaté,Africa,NFO,MF,33,12,2,212,2,0,0,5,5,0
+Moussa Niakhate,Africa,NFO,DF,27,21,15,1460,5,1,13,39,6,0.06
+Anthony Elanga,Europe,NFO,FWMF,21,36,25,2433,1,0,98,49,196,0.52
+Gio Reyna,North America,NFO,FWMF,20,9,2,235,0,0,3,12,14,0.38
+Brennan Johnson,Europe,NFO,FWMF,22,3,3,237,0,0,8,1,14,0
+Neco Williams,Europe,NFO,DF,22,26,18,1637,4,0,48,47,86,0.05
+Yasser Larouci,Africa,SHU,DF,22,11,6,531,1,0,18,14,12,0
+Anel Ahmedhod_i_,Europe,SHU,DF,24,31,29,2649,11,1,15,43,21,0.07
+Vinicius Souza,South America,SHU,MF,24,36,29,2668,3,0,7,66,21,0.03
+Ben Brereton,South America,SHU,FWMF,24,14,14,1105,3,0,23,37,78,0.49
+Bénie Adama Traore,Africa,SHU,FWMF,20,8,3,387,0,0,7,9,14,0
+William Osula,Europe,SHU,FW,19,21,9,786,4,0,7,2,41,0
+Tom Davies,Europe,SHU,MF,25,9,2,221,2,0,3,8,3,0
+Chris Basham,Europe,SHU,DFMF,35,8,3,321,1,0,1,7,6,0
+Rhian Brewster,Europe,SHU,FWMF,23,13,3,346,0,1,1,3,21,0
+Max Lowe,Europe,SHU,DFMF,26,10,4,503,1,0,5,12,11,0
+Mason Holgate,Europe,SHU,DF,26,10,9,710,3,1,0,13,0,0
+Luke Thomas,Europe,SHU,DF,22,12,11,917,3,0,8,33,22,0
+Andre Brooks,Europe,SHU,MFDF,19,20,12,938,1,0,12,18,22,0
+Oliver Arblaster,Europe,SHU,MF,19,12,11,943,2,0,13,43,4,0
+Ben Osborn,Europe,SHU,DFMF,28,24,14,1367,3,0,16,55,44,0.13
+James Mcatee,Europe,SHU,MFFW,20,30,20,1822,2,0,55,51,110,0.25
+Cameron Archer,Europe,SHU,FWMF,22,29,21,1832,1,0,33,15,113,0.25
+Jayden Bogle,Europe,SHU,DF,23,34,32,2788,9,0,38,60,92,0.1
+Jack Robinson,Europe,SHU,DF,29,34,31,2885,10,0,8,63,14,0.06
+George Baldock,Europe,SHU,DF,30,13,11,969,4,0,9,31,24,0.09
+John Egan,Europe,SHU,DF,30,6,6,482,2,0,0,5,1,0
+Gustavo Hamer,Europe,SHU,MF,26,36,34,2910,9,0,36,135,86,0.31
+Oliver Norwood,Europe,SHU,MF,32,27,16,1440,8,0,3,73,10,0
+John Fleck,Europe,SHU,MFDF,31,4,1,92,1,0,2,3,0,0
+Oliver McBurnie,Europe,SHU,FW,27,21,15,1280,7,2,6,30,60,0.49
+Anis Ben Slimane,Africa,SHU,MF,22,15,4,419,2,0,3,12,21,0
+Auston Trusty,North America,SHU,DF,24,32,28,2572,4,0,10,40,15,0
+Rhys Norrington-Davies,Europe,SHU,DF,24,5,2,110,1,0,3,2,6,0
+Giovani Lo Celso,South America,TOT,MF,27,22,4,506,2,0,25,68,29,0.71
+Cristian Romero,South America,TOT,DF,25,33,33,2790,7,1,32,179,8,0.16
+Emerson,South America,TOT,DF,24,22,11,1161,4,0,21,57,35,0.08
+Richarlison,South America,TOT,FW,26,28,18,1491,3,0,26,38,106,0.91
+Ivan Peri_i_,Europe,TOT,FW,34,5,0,103,2,0,15,9,17,0.87
+Pierre Højbjerg,Europe,TOT,MF,27,36,8,1311,4,0,17,134,29,0
+Eric Dier,Europe,TOT,DF,29,4,1,201,0,0,0,3,0,0
+Oliver Skipp,Europe,TOT,MFDF,22,21,5,707,3,0,8,37,25,0
+James Maddison,Europe,TOT,MF,26,28,26,2135,5,0,58,224,156,0.55
+Bryan Gil,Europe,TOT,FWMF,22,11,2,209,0,0,11,16,49,0
+Pedro Porro,Europe,TOT,DF,23,35,35,3089,3,0,57,194,158,0.29
+Timo Werner,Europe,TOT,FW,27,13,10,809,1,0,79,41,124,0.56
+Manor Solomon,Asia,TOT,FW,24,5,2,199,1,0,17,11,44,0.9
+Destiny Udogie,Europe,TOT,DF,20,28,28,2391,7,1,83,155,138,0.19
+Son Heung-min,Asia,TOT,FW,31,35,34,2934,1,0,119,139,325,0.77
+Yves Bissouma,Africa,TOT,MF,26,28,26,2068,10,2,43,169,13,0
+Micky van de Ven,Europe,TOT,DF,22,27,27,2339,5,0,19,108,9,0.12
+Radu Dr_gu_in,Europe,TOT,DF,21,9,4,429,1,0,5,8,1,0
+Pape Matar Sarr,Africa,TOT,MF,20,34,27,2069,9,0,43,150,90,0.26
+Dejan Kulusevski,Europe,TOT,FWMF,23,36,31,2762,7,0,151,144,388,0.36
+Rodrigo Bentancur,South America,TOT,MF,26,23,13,1005,7,0,16,72,31,0.18
+Ben Davies,Europe,TOT,DF,30,17,12,1090,2,0,13,71,20,0.08
+Brennan Johnson,Europe,TOT,FW,22,32,23,2085,3,0,97,72,293,0.65
+Saïd Benrahma,Africa,WHU,FWMF,27,13,5,620,1,0,28,28,70,0.15
+Lucas Paquetá,South America,WHU,FWMF,25,31,31,2622,10,0,34,187,116,0.27
+Maxwel Cornet,Africa,WHU,MFFW,26,7,1,112,0,0,3,2,8,0.8
+Tomá_ Sou_ek,Europe,WHU,MF,28,37,34,2870,7,0,7,86,39,0.28
+Vladimír Coufal,Europe,WHU,DF,30,36,36,3132,7,1,68,119,126,0.2
+Kalvin Phillips,Europe,WHU,MF,27,8,3,309,3,1,3,19,4,0
+Danny Ings,Europe,WHU,FW,31,20,3,404,1,0,7,8,29,0.22
+Aaron Cresswell,Europe,WHU,DFFW,33,11,4,436,1,0,4,26,6,0
+Ben Johnson,Europe,WHU,DFFW,23,14,4,544,1,0,17,22,33,0
+James Ward-Prowse,Europe,WHU,MF,28,37,34,3001,4,0,18,144,63,0.36
+Jarrod Bowen,Europe,WHU,FW,26,34,34,3019,2,0,90,52,186,0.66
+Pablo Fornals,Europe,WHU,MFFW,27,15,4,426,0,0,4,29,27,0
+Kurt Zouma,Europe,WHU,DF,28,33,32,2838,3,0,7,53,1,0.1
+Mohammed Kudus,Africa,WHU,FWMF,22,33,27,2484,6,0,117,80,216,0.51
+Konstantinos Mavropanos,Europe,WHU,DF,25,19,16,1500,2,0,10,38,2,0.06
+Angelo Ogbonna,Europe,WHU,DF,35,11,7,635,1,0,2,4,0,0
+Emerson Palmieri,Europe,WHU,DF,28,36,35,3137,10,0,59,125,124,0.09
+Michail Antonio,North America,WHU,FW,33,26,21,1695,6,0,48,22,104,0.42
+Nayef Aguerd,Africa,WHU,DF,27,21,21,1857,3,1,10,68,3,0.05
+Edson Álvarez,North America,WHU,MF,25,31,28,2377,11,0,20,91,26,0.08
+Rayan Aït-Nouri,Africa,WOL,DFMF,22,33,29,2329,7,0,67,99,99,0.12
+Sasa Kalajdzic,Europe,WOL,FW,26,11,1,166,0,0,1,5,9,1.08
+Matheus Cunha,South America,WOL,FWMF,24,32,29,2440,9,0,107,87,139,0.66
+João Gomes,South America,WOL,MF,22,34,32,2649,11,0,28,101,44,0.1
+Leon Chiwome,Europe,WOL,FW,17,3,2,174,0,0,1,2,7,0
+Tommy Doyle,Europe,WOL,MF,21,26,11,1222,2,0,21,81,17,0
+Craig Dawson,Europe,WOL,DF,33,25,25,2209,7,0,1,49,4,0.08
+Max Kilman,Europe,WOL,DF,26,38,38,3420,7,0,22,117,5,0.05
+Hugo Bueno,Europe,WOL,DFMF,20,22,7,741,1,0,22,8,40,0
+Pablo Sarabia,Europe,WOL,MFFW,31,30,20,1745,5,0,41,109,137,0.46
+Jean-Ricner Bellegarde,Europe,WOL,MFFW,25,22,10,958,0,1,30,39,49,0.28
+Mario Lemina,Africa,WOL,MF,29,35,34,2968,12,1,32,76,49,0.15
+Nathan Fraser,Europe,WOL,FW,18,7,1,186,1,0,1,2,21,0
+Matt Doherty,Europe,WOL,DFMF,31,30,9,1150,2,0,12,31,64,0.08
+Hwang Hee-chan,Asia,WOL,FWMF,27,29,25,2119,6,0,37,37,120,0.59
+Boubacar Traoré,Africa,WOL,MF,21,24,7,819,4,0,9,29,15,0
+Matheus Nunes,Europe,WOL,MF,24,2,2,179,2,1,7,8,9,0
+Fábio Silva,Europe,WOL,FW,21,8,3,264,2,0,5,10,13,0
+Pedro Neto,Europe,WOL,FWMF,23,20,18,1516,4,0,98,54,149,0.65
+Toti Gomes,Europe,WOL,DF,24,35,31,2772,7,0,22,79,11,0.13
+Nélson Semedo,Europe,WOL,DFMF,29,36,36,3084,10,1,103,138,150,0.03
+Santiago Bueno,South America,WOL,DF,24,12,9,822,1,0,3,11,2,0
+Tawanda Chirewa,Africa,WOL,MFFW,19,8,1,145,1,0,1,7,8,0

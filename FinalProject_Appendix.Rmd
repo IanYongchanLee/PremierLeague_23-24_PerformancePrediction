@@ -1,0 +1,390 @@
+---
+title: "Appendix"
+author: "Ian"
+date: "2024-12-10"
+output: word_document
+---
+
+```{r include=FALSE}
+library(mosaic); library(readr); library(ggformula); library(dplyr)
+```
+
+# Explanatory Data Analysis
+
+<!-- **Before starting EDA, I want to make sure that I did Data cleaning using Excel. Since my cleaning process is simple, I thought the process will be faster in Excel than in R-studio. I will start EDA with the processed dataset from now on.** -->
+
+> 0)  Basic Data Overview 
+
+> 1)  Response Variable
+
+> 2)  Numerical Explanatory Variable
+
+> 3)  Categorical Explanatory Variable
+
+> 4)  Response variable vs. Numerical Explanatory variables
+
+> 5)  Response variable vs. Categorical Explanatory variables
+
+
+# Modeling
+
+> 6)  Spliting Data 
+ 
+> 7)  7 Models
+
+
+# Final Model
+
+> 8) Residual Plots
+
+> 9) Tests/Inferences
+
+> 9) Result in Figures
+
+## 0. Basic Data Overview
+
+### 0.1. Data Defining
+
+```{r}
+# Defining dataset
+data = read.csv("Ian.csv")
+```
+
+### 0.2. Checking Dataset Structure
+
+```{r}
+# Checking data attributes 
+# 456 samples and 14 variables. I will be using only 13 variables, except for 'Name'
+# Response variable: numerical / Explanatory variables: 3 categorical and 9 numerical
+str(data)
+```
+
+### 0.3. Checking Missing Values
+
+```{r}
+# Checking missing values for each columns
+colSums(is.na(data))
+```
+
+## 1. Response Variable
+
+### 1.1. Five Number Summary
+
+```{r}
+# Since my response variable is numerical, we can build the five number summary.
+summary(data[14])
+```
+
+### 1.2. Distribution
+
+```{r}
+hist(data[[14]], 
+     main = "Distribution of G+A-PK_90",
+     xlab = "G+A-PK per 90 minutes",
+     ylab = "Frequency",
+     col='lightblue',
+     border = 'black')
+
+```
+
+## 2. Numerical Variables
+
+### 2.1. Five Number Summary
+
+```{r}
+# column 5 to column 13 are the numerical variables in the dataset
+summary(data[5:13])
+```
+
+### 2.2. Distribution (Histogram)
+
+```{r, fig.width=8, fig.height=7}
+par(mfrow=c(3,3))
+for (col_name1 in colnames(data[5:13])) {
+  hist(data[[col_name1]], 
+       main = paste("Histogram of", col_name1),
+       xlab = col_name1,
+       col='lightblue',
+       border = 'black')
+}
+```
+
+## 3. Categorical Variables
+
+### 3.1. Frequency
+
+```{r}
+# variable Nation
+Continent_count = tally(data[[2]]); Continent_count
+
+# variable Team
+Team_count = tally(data[[3]]); Team_count
+
+# variable Position
+Pos_count = tally(data[[4]]); Pos_count
+```
+
+### 3.2. Distribution (PieChart)
+
+```{r}
+barplot(table(data$Continent))
+```
+
+
+```{r, fig.width=21, fig.height=12}
+par(mfrow=c(2,2))
+for (col_name2 in colnames(data[2:4])) {
+  freq_table <- table(data[[col_name2]])
+  
+  percentages <- round(100 * freq_table / sum(freq_table), 1) 
+  
+  barplot(freq_table, 
+      main = paste("Barplot of", col_name2),
+      col = "lightblue", 
+      border = 'black') 
+}
+```
+
+## 4. Response variable vs. Numerical Explanatory variables
+
+### 4.1. Scatterplot
+
+```{r, fig.height=8, fig.width=8}
+# Scatterplot between response variable and numerical explanatory variables
+par(mfrow=c(3,3))
+for (col_name in colnames(data[5:13])) {
+  plot(data$G.A.PK_90, data[[col_name]],
+       main = paste("G+A-PK_90 vs.", col_name),
+       xlab = "G+A-P_90",
+       ylab = col_name)
+}
+```
+
+### 4.2. Correlation Matrix
+
+```{r, fig.height=5.5}
+# Correlation matrix of all numerical variables including response and explanatory variables
+correlation_matrix <- cor(data[5:14])
+library(corrplot)
+corrplot(correlation_matrix, method = "circle",
+         tl.col = "darkgreen",
+         tl.srt = 0)
+```
+
+## 5. Response variable vs. Categorical Explanatory variables
+
+### 5.1 Boxplot
+
+```{r, fig.width=13,fig.height=10}
+par(mfrow=c(3,1))
+for (col_name in colnames(data[2:4])) {
+  boxplot(G.A.PK_90 ~ data[[col_name]],
+          data = data,
+          main = paste("G+A-PK per 90 min vs.", col_name),
+          xlab = col_name,
+          ylab = "G+A-PK per 90 min",
+          col = "lightblue")
+ }
+```
+
+
+
+
+
+# Modeling
+
+## 6. Spliting Data into Training and Testing Sets
+```{r}
+# The proportion of the Training and Testing will be 0.75 : 0.25
+# By using 'sample', I will divide the data set randomly
+# The number of training set and testing set will be 342 and 114
+set.seed(42)
+sample_index = sample(1:nrow(data), size = 0.75 * nrow(data))
+train_data = data[sample_index, ]
+test_data = data[-sample_index, ]
+```
+
+## 7. 7 Models 
+
+### 7.1.1 Training Model_1
+```{r}
+# Training full_model with the training set
+full_model = lm(G.A.PK_90 ~ Continent + Team + Pos + Age + MP + Starts + Min + CrdY + CrdR + PrgC + PrgP + PrgG, data = train_data)
+summary(full_model)
+```
+
+### 7.1.2. Testing Model_1 
+```{r}
+# Testing the full_model with the training set
+full_model_test_predictions = predict(full_model, newdata = test_data)
+cor(full_model_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+full_MSE = summary((full_model_test_predictions - test_data$G.A.PK_90)^2); full_MSE["Mean"]
+```
+
+
+### 7.2.1 Training Model_2 
+```{r}
+# Training the Square Root full model with train data
+sqrt_full_model = lm(sqrt(G.A.PK_90) ~ Continent + Team + Pos + Age + MP + Starts + Min + CrdY + CrdR + PrgC + PrgP + PrgG, data = train_data)
+summary(sqrt_full_model)
+```
+
+### 7.2.2 Testing Model_2 
+```{r}
+# Testing the square root full model with test data
+full_sqrt_test_predictions = predict(sqrt_full_model, newdata = test_data)
+cor(full_sqrt_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+sqrt_Full_MSE = summary(((full_sqrt_test_predictions)^2 - test_data$G.A.PK_90)^2); sqrt_Full_MSE["Mean"]
+```
+
+### 7.3.0. Stepwise Regression
+```{r}
+# Stepwise Regression
+MSE = (summary(full_model)$sigma)^2
+non = lm(G.A.PK_90 ~ 1, data = train_data)
+step(non, scope = list(upper = full_model), scale = MSE)
+```
+
+### 7.3.1. Training Model_3
+```{r}
+# Model from the result of Stepwise Regression
+stepwise_model = lm(G.A.PK_90 ~ Pos + PrgG + Team + Age, data = train_data)
+summary(stepwise_model)
+```
+
+### 7.3.2. Testing Model_3
+```{r}
+# Testing the model with test data
+stepwise_test_predictions = predict(stepwise_model, newdata = test_data)
+cor(stepwise_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+stepwise_MSE = summary((stepwise_test_predictions - test_data$G.A.PK_90)^2); stepwise_MSE["Mean"]
+```
+
+
+
+### 7.4.1 Training Model_4
+```{r}
+# Training the sqrt stepwise model with train data
+sqrt_stepwise = lm(sqrt(G.A.PK_90) ~ Pos + PrgG + Team + Age, data = train_data)
+summary(sqrt_stepwise)
+```
+
+### 7.4.2. Testing Model_4
+```{r}
+# Testing the model with test data
+sqrt_stepwise_test_predictions = predict(sqrt_stepwise, newdata = test_data)
+cor(sqrt_stepwise_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+sqrt_stepwise_MSE = summary(((sqrt_stepwise_test_predictions)^2 - test_data$G.A.PK_90)^2); sqrt_stepwise_MSE["Mean"]
+```
+
+
+### 7.5.1. Training Model_5 
+```{r}
+model5 = lm(G.A.PK_90 ~ Pos + PrgG + Team + Age:Continent + I(Age^2) + Pos:Min, data = train_data)
+summary(model5)
+```
+
+### 7.5.2. Testing Model_5
+```{r}
+# Testing the model with test data
+model5_test_predictions = predict(model5, newdata = test_data)
+cor(model5_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+model5_MSE = summary((model5_test_predictions - test_data$G.A.PK_90)^2); model5_MSE["Mean"]
+```
+
+### 7.6.1. Training Model_6 
+```{r}
+# Quadratic and interaction model using variables from step wise regression
+model6 = lm(sqrt(G.A.PK_90) ~ Pos + PrgG + Team + I(Age^2) + Pos:PrgC, data = train_data)
+summary(model6)
+```
+
+### 7.6.2. Testing Model_6
+```{r}
+# Testing the model with test data
+model6_test_predictions = predict(model6, newdata = test_data)
+cor(model6_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+model6_MSE = summary(((model6_test_predictions)^2 - test_data$G.A.PK_90)^2); model6_MSE["Mean"]
+```
+
+### 7.7.1. Training Model_7
+```{r}
+# Resulted Model from the other stepwise regression (used full model considered all possible quadratic and interaction terms) 
+# Due to running time, I did not included the code for the step wise regression.
+model7 = lm(sqrt(G.A.PK_90) ~ Pos + PrgG + Team + I(PrgG^2) + Age + 
+    I(PrgC^2) + I(MP^2) + Pos:Team + Pos:PrgG, data = train_data)
+summary(model7)
+```
+
+### 7.7.2. Testing Model_7
+```{r, warning=FALSE}
+# Testing the model with test data
+model7_test_predictions = predict(model7, newdata = test_data)
+cor(model7_test_predictions, test_data$G.A.PK_90)
+
+# Calculating MSE
+model7_MSE = summary(((model7_test_predictions)^2 - test_data$G.A.PK_90)^2); model7_MSE["Mean"]
+```
+
+
+# Final Model
+
+## 8. Residual Plots
+```{r}
+par(mfrow=c(2,2))
+plot(stepwise_model)
+```
+
+
+## 9. Tests/Inferences
+
+### 9.1. Individual T-Test
+```{r}
+# Individual T-test for the final model
+summary(stepwise_model)
+```
+
+
+### 9.2. Confidence Interval 95%
+```{r}
+# 95% Confident Interval for the final model
+confint(stepwise_model, level = 0.95)
+```
+
+
+### 9.3. Usefulness Test (ANOVA)
+```{r}
+anova(stepwise_model)
+```
+
+### 9.4. VIF test
+```{r}
+# VIF test: Checking for a multicollinearity in the final model
+library(car)
+vif(stepwise_model)
+```
+
+# 10. Result in Figure
+
+## 10.1. Predicted vs. Actual G.A.PK_90 in scatterplot
+```{r}
+# Plot the actual and predicted G.A.PK_90 values.
+# Correlation between the predicted and actual Y: 0.5883499
+gf_point(stepwise_test_predictions ~ test_data$G.A.PK_90,
+     main = "Stepwise Model: Predicted vs Actual G+A-PK_90",
+     xlab = "Actual value",
+     ylab = "Predicted value") 
+```
+
